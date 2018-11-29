@@ -1,2 +1,3 @@
 # contact_me
-Just a repository if you wanna send me a message :)
+A repository if you wanna send me a message.
+Just open an issue :)
